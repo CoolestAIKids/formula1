@@ -6,3 +6,6 @@ venv
 
 # OS Files
 .DS_Store
+
+# Secrets
+github.txt
