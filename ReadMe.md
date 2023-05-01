@@ -12,3 +12,11 @@ We use logistic regression, SVMs, and neural networks.
   make venv
   ```
 - Play around with the jupyter notebook however you like
+
+## Azerbaijan GP 2023
+Charles predicted:
+  1. Checo will win
+  2. Charles has equal chances of first, second, third, and no podium
+  3. Fernando has equal chances of first, second, third, and no podium
+
+As you can see, don't gamble with this.
